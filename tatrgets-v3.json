@@ -1,0 +1,26 @@
+[
+  {
+    "device_model": "SM-S921E",
+    "build_id": "S921EXXS3CZE1",
+    "kernel_version": "6.1.145-android14-11-33419968-abS921EXXS3CZE1 #1 Tue May 19 11:30:20 UTC 2026",
+    "offsets": {
+      "lock_off": "0x2210",
+      "init_task_off": "0x0224f8c0",
+      "root_tg_off": "0x0244cd80",
+      "selinux_off": "0x0265cb3c",
+      "compat_off": "0x0"
+    }
+  },
+  {
+    "device_model": "SM-S921E",
+    "build_id": "S921EXXS3CZE1",
+    "kernel_version": "6.1.145-android14-11-33419968-abS921EXXS3CZE1",
+    "offsets": {
+      "lock_off": "0x2210",
+      "init_task_off": "0x0224f8c0",
+      "root_tg_off": "0x0244cd80",
+      "selinux_off": "0x0265cb3c",
+      "compat_off": "0x0"
+    }
+  }
+]
